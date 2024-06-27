@@ -1,4 +1,7 @@
 Instagram Login Page Clone
+
+
+
 This project is a simple HTML and CSS clone of the Instagram login page.
 
 Description
@@ -16,6 +19,6 @@ You can preview the Instagram login page clone with this screenshot:
 
 
 
-Technologies Used
+Technologies : 
 HTML
 CSS
